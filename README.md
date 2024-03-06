@@ -1,5 +1,5 @@
 # build-countdown-clock
-Code and meshes from my "Microsoft Countdown Clock" Arduino build video.
+Code and meshes from my "Microsoft Countdown Clock" Arduino build [video](https://www.youtube.com/watch?v=ISuTRsbfJcw).
 
 These are the exact parts I used, but similar substitutions will work:
 * [Display](https://www.aliexpress.us/item/3256805735592382.html)
