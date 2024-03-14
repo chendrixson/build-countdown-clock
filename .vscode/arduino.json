@@ -1,0 +1,6 @@
+{
+    "board": "OSOYOO avr compatible boards:avr:Nano",
+    "port": "COM4",
+    "sketch": "build-countdown-clock.ino",
+    "programmer": "nulllab_lgtswd_asisp"
+}
